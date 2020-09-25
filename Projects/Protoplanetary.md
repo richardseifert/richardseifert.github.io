@@ -6,9 +6,7 @@ tags: [Python, C, Fortran]
 
 # Ionization and its Influence on Forming Solar Systems
 
-<img src="assets/img/imlup-banner.svg" alt="Booo">
-
-<img src="assets/img/avatar-icon.png" alt="Woo?">
+![IM Lup](/assets/img/imlup-banner.svg)
 
 In the disks of gas and dust that predate solar systems, ionization from UV & X-ray photons and cosmic rays vitally influence physical and chemical evolution by mediating the migration of material and expediting the chemistry necessary to produce life-enabling molecules like water and organics. Using a detailed chemical modeling and synthetic observing methodology, we modeled observations of the disk IM Lup and found that it is strongly impacted by cosmic ray ionization.
 
