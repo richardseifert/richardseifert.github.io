@@ -16,8 +16,8 @@ While working on this project, I developed a comprehensive tool for handling, an
 
 ***Languages:*** Python, C, Fortran
 
-***Skills:*** Data Modeling, Data Visualization
+***Skills:*** Data Modeling, Data Analytics, Data Visualization
 
 ***Techniques:*** Forward Modeling, Chi-Squared Analysis, Chemical Kinetics, Radiative Transfer
 
-***Tools:*** [Chemvene](https://github.com/richardseifert/Chemvene), [LIME](https://lime.readthedocs.io/en/v1.6.1/usermanual.html), [`vis_sample`](https://github.com/AstroChem/vis_sample), Pandas, matplotlib
+***Tools:*** [Chemvene](https://github.com/richardseifert/Chemvene), [LIME](https://lime.readthedocs.io/en/v1.6.1/usermanual.html), [`vis_sample`](https://github.com/AstroChem/vis_sample), Pandas, Matplotlib

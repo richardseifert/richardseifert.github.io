@@ -20,4 +20,4 @@ Look [here](https://drive.google.com/file/d/1wYnA9nVOT2S82g8UzkpO5PzqIgNdWy7N/vi
 
 ***Techniques:*** Linear Regression, Random Forest, Neural Network
 
-***Tools:*** Scikit-Learn, TensorFlow, Keras, matplotlib, Jupyter Notebook
+***Tools:*** Scikit-learn, TensorFlow, Keras, Matplotlib, Jupyter Notebook
