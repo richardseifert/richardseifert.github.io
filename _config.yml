@@ -13,8 +13,8 @@ author: Richard Seifert
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  #Home: ""
-  Projects: "Projects"
+  Home: "https://richardseifert.github.io"
+  Projects: 
     - VA Graduation: "Projects/VA-Graduation"
     - Protoplanetary Disks: "Projects/Protoplanetary"
     - Hydra Spectral Reductions: "Projects/Hydra"
