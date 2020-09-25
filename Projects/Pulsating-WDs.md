@@ -6,9 +6,9 @@ tags: [Python, C]
 
 # Finding Simple Observables to Predict White Dwarf Internal Structure
 
-DESCRIPTION!!!
+Pretty picture
 
-IMAGE OF RAW -> REDUCED
+DESCRIPTION!!!
 
 LINK TO AAS POSTER
 
