@@ -15,11 +15,11 @@ author: Richard Seifert
 navbar-links:
   Home: "https://richardseifert.github.io"
   Projects: 
-    - VA Dropout Rates: "Projects/VA-Graduation"
-    - Ionization in Young Solar Systems: "Projects/Protoplanetary"
-    - Hydra Spectral Reductions: "Projects/Hydra"
-    - Galaxy Cluster Formation: "Projects/Protoclusters"
-    - Pulsating White Dwarfs: "Projects/Pulsating-WDs"
+    - VA Dropout Rates: "projects/va-graduation"
+    - Ionization in Young Solar Systems: "projects/protoplanetary"
+    - Hydra Spectral Reductions: "projects/hydra"
+    - Galaxy Cluster Formation: "projects/protoclusters"
+    - Pulsating White Dwarfs: "projects/pulsating-wds"
   Resume: "https://google.com"
 
 # --- Logo --- #
