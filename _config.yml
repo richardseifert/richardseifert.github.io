@@ -14,11 +14,14 @@ author: Some Person
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Home: "/"
+  Projects: "Projects"
+    - VA Graduation: "Projects/VA-Graduation"
+    - Protoplanetary Disks: "Projects/Protoplanetary"
+    - Hydra Spectral Reductions: "Projects/Hydra"
+    - Protocluster Formation: "Projects/Protocluster"
+    - Pulsating White Dwarfs: "Projects/Pulsating-WDs"
+  Resume: "https://google.com"
 
 # --- Logo --- #
 
