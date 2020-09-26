@@ -8,16 +8,14 @@ tags: [Python, IDL]
 
 Pretty banner?
 
-DESCRIPTION!!!
+There's a reason we don't live in a galaxy cluster; in that tight-knit environment, hot intergalactic gas strips galaxies of the cool gas clouds that would otherwise collapse to form new stars. These *massive* structures weren't born over night, and we can look at their progressive formation as a probe of the structural evolution of the Universe as a whole. Using observations of distant galaxies, I studied two infant galaxy clusters (*~10 billion light years away*) to guage the level of gas depletion they exhibit—a key characteristic of mature galaxy clusters.
 
-Pretty picture?
+I pooled data from a number of different datasets and used a stacking technique to estimate gas masses and quantify the average level of gas depletion for thousands of galaxies residing inside and outside of the two clusters. What I found is that these two cluster preogenitors are indeed starting to become gas-depleted, but as explected they have a long way to go before they look like the nearby galaxy clusters of today.
 
-LINK TO AAS POSTER!!
+I [presented](https://drive.google.com/file/d/1J-RZeRsGpwXLlqMqc-U7miK9JOZsq21z/view?usp=sharing) this work at [AAS 231](https://aas.org/meetings/aas231), and it also served as my undergraduate thesis research—take a look at the full report [here](https://drive.google.com/file/d/1S9HbVbJdsQMnK8gdu0hk-k_XDal_pnUQ/view?usp=sharing)!
 
 ***Languages:*** Python, IDL
 
 ***Skills:*** Statistical Analysis, Data Visualization
-
-***Techniques:*** Stacking?
 
 ***Tools:*** Matplotlib
