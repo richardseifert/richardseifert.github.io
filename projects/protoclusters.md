@@ -6,7 +6,7 @@ tags: [Python, IDL]
 
 # Interstellar Gas as a Diagnostic of Galaxy Clustering in the Early Universe
 
-Pretty banner?
+*2016 - 2018*
 
 There's a reason we don't live in a galaxy cluster; in that tight-knit environment, hot intergalactic gas strips galaxies of the cool gas clouds that would otherwise collapse to form new stars. These *massive* structures weren't born over night, and we can look at their progressive formation as a probe of the structural evolution of the Universe as a whole. Using observations of distant galaxies, I studied two infant galaxy clusters (*~10 billion light years away*) to guage the level of gas depletion they exhibit—a key characteristic of mature galaxy clusters.
 

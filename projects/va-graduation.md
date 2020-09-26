@@ -8,6 +8,8 @@ tags: [Python, Scikit-learn, TensorFlow]
 
 # Getting a Grip on Graduation with Machine Learning
 
+*Spring 2020*
+
 In todays fast-paced, technology-driven world, the importance of a good education for finding career success is becoming invaluable, making it more and more concerning that so many students don't graduate with a high school diploma. We trained ML models on public graduation and census data in order to recover key factors influencing dropout rates among Virginia students as part of the [*Machine Learning for Virginia*](https://nrichnguyen.wixsite.com/ml4va) project.
 
 With our final tuned model, we were able to sucessfully recover three factors strongly predicting graduation outcome amongst Virginia students—race, regional wealth, and English proficiency—highlighting specific demographics of students who are currenty under-served by the Virginia public school system.
