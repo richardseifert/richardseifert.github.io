@@ -10,11 +10,11 @@ tags: [Python, Scikit-learn, TensorFlow]
 
 *Spring 2020*
 
-In todays fast-paced, technology-driven world, the importance of a good education for finding career success is becoming invaluable, making it more and more concerning that so many students don't graduate with a high school diploma. We trained ML models on public graduation and census data in order to recover key factors influencing dropout rates among Virginia students as part of the [*Machine Learning for Virginia*](https://nrichnguyen.wixsite.com/ml4va) project.
+In todays fast-paced, technology-driven world, the importance of a good education for finding career success is becoming invaluable, making it more and more concerning that so many students don't graduate with a high school diploma. We trained ML models on public graduation and census data in order to recover key factors influencing dropout rates among Virginia students as part of the <a href="https://nrichnguyen.wixsite.com/ml4va" target="_blank">Machine Learning for Virginia</a> project.
 
 With our final tuned model, we were able to sucessfully recover three factors strongly predicting graduation outcome amongst Virginia students—race, regional wealth, and English proficiency—highlighting specific demographics of students who are currenty under-served by the Virginia public school system.
 
-Look [here](https://drive.google.com/file/d/1wYnA9nVOT2S82g8UzkpO5PzqIgNdWy7N/view?usp=sharing) to read the full report!
+Look <a href="https://drive.google.com/file/d/1wYnA9nVOT2S82g8UzkpO5PzqIgNdWy7N/view?usp=sharing" target="_blank">here</a> to read the full report!
 
 ***Languages:*** Python
 

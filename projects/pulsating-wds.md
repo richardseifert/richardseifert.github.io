@@ -12,7 +12,7 @@ White dwarfs represent a hidden majority of stars in our universe, and these sma
 
 With my awesome team, I helped develop a method to determine pulsation parameters of white dwarfs—crucial for infering their internal structure—from a limited amount of observational data. I automated the production of a suite of synthetic time series white dwarf observations, which we used to validate our method.
 
-We presented our results at the [2015 Bashfest Symposium](https://www.as.utexas.edu/new_horizons/bash15/)—take a look at the conference proceedings [here](https://pos.sissa.it/261/016/pdf)!
+We presented our results at the <a href="https://www.as.utexas.edu/new_horizons/bash15/" target="_blank">2015 Bash Symposium</a>—take a look at the conference proceedings <a href="https://pos.sissa.it/261/016/pdf" target="_blank">here</a>!
 
 ***Languages:*** Python, C
 
