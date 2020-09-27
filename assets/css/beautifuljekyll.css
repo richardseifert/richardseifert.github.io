@@ -52,13 +52,13 @@ a:hover,
 a:focus {
   color: {{ site.hover-col | default: "#0085A1" }};
 }
-/* Project List Links */
-h3 a {
+/* Project List Link styles */
+a h3 {
   color: {{ site.text-col | default: "#404040" }};
 }
-h3 a:hover,
-h3 a:focus {
-  color: {{ site.text-col | default: "#404040" }};
+a:hover h3,
+a:focus h3 {
+  color: {{ site.hover-col | default: "#0085A1" }};
 }
 /*                    */
 blockquote {
