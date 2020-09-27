@@ -71,7 +71,7 @@ a:hover p,
 a:focus p {
   text-decoration: none;
   color: {{ site.text-col | default: "#404040" }};
-  margin: 0.6rem 0 1.3rem 0;
+  margin: 0.4rem 0 1.5rem 0;
 }
 /*                    */
 blockquote {
