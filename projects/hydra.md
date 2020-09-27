@@ -8,8 +8,8 @@ tags: [Python]
 
 *2017 - 2018*
 
+![Pipeline Diagram](/assets/img/hydra-diagram.svg)
+
 DESCRIPTION!!! Talk about ZEIT project.
 
-IMAGE OF RAW -> REDUCED
-
-LINK TO AAS POSTER
+Found the poster! Crop pictures out on mac and make a things!
