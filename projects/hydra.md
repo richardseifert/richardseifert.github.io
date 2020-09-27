@@ -16,3 +16,8 @@ I took on a technical role in the collaboration, leading the development of a da
 
 I presented this at <a href="https://aas.org/meetings/aas231" target="_blank">AAS 231</a> in 2018, take a look <a href="https://drive.google.com/file/d/1AHS0DhCmxiU67yni-J77bUGptiz8_UUj/view?usp=sharing" target="_blank">here</a>!
 
+***Languages:*** Python
+
+***Skills:*** Data Processing, Data Analysis, Automation, Data Visualization
+
+***Tools:*** NumPy, Matplotlib
