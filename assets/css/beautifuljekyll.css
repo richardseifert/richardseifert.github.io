@@ -52,6 +52,15 @@ a:hover,
 a:focus {
   color: {{ site.hover-col | default: "#0085A1" }};
 }
+/* Project List Links */
+h2 a {
+  color: {{ site.text-col | default: "#404040" }};
+}
+h2 a:hover,
+h2 a:focus {
+  color: {{ site.text-col | default: "#404040" }};
+}
+/*                    */
 blockquote {
   color: #808080;
   font-style: italic;
