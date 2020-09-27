@@ -54,9 +54,11 @@ a:focus {
 }
 /* Project List Link styles */
 a h3 {
+  text-decoration: none;
   color: {{ site.text-col | default: "#404040" }};
 }
 a p {
+  text-decoration: none;
   color: {{ site.text-col | default: "#404040" }};
   margin: 0.4rem 0 1.5rem 0;
 }
@@ -66,9 +68,9 @@ a:focus h3 {
 }
 a:hover p,
 a:focus p {
-  color: {{ site.text-col | default: "#404040" }};
   text-decoration: none;
-  margin: 0.6rem 0 1.5rem 0;
+  color: {{ site.text-col | default: "#404040" }};
+  margin: 0.6rem 0 1.3rem 0;
 }
 /*                    */
 blockquote {
