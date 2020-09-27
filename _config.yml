@@ -14,7 +14,8 @@ author: Richard Seifert
 
 navbar-links:
   Home: "https://richardseifert.github.io"
-  Projects: 
+  Projects:
+    - All: "projects"
     - VA Dropout Rates: "projects/va-graduation"
     - Ionization in Young Solar Systems: "projects/protoplanetary"
     - Hydra Spectral Reductions: "projects/hydra"
