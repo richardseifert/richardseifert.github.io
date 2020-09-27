@@ -58,6 +58,7 @@ a h3 {
 }
 a p {
   color: {{ site.text-col | default: "#404040" }};
+  margin: 0.4rem 0 1.5rem 0;
 }
 a:hover h3,
 a:focus h3 {
