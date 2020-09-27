@@ -53,11 +53,11 @@ a:focus {
   color: {{ site.hover-col | default: "#0085A1" }};
 }
 /* Project List Links */
-h2 a {
+h3 a {
   color: {{ site.text-col | default: "#404040" }};
 }
-h2 a:hover,
-h2 a:focus {
+h3 a:hover,
+h3 a:focus {
   color: {{ site.text-col | default: "#404040" }};
 }
 /*                    */
