@@ -12,4 +12,3 @@ tags: [Python]
 
 DESCRIPTION!!! Talk about ZEIT project.
 
-Found the poster! Crop pictures out on mac and make a things!

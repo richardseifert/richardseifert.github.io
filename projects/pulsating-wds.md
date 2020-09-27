@@ -10,7 +10,7 @@ tags: [Python, C]
 
 White dwarfs represent a hidden majority of stars in our universe, and these small, hot remnants of stellar cores have a lot to tell us about the environments they reside in. I worked with a team studying a specific class of white dwarf stars that pulsate regularly in brightness. By studying their pulsations, we can recover extremely precise ages for these stellar remnants, which can be used to date astrophysical events like supernovae, stellar interactions, and even the birth of the Universe itself.
 
-Pic of pulsation modes and sharkfin diagram. Any direct result to plot?
+![Pulsating White Dwarf Diagrams](/assets/img/WD-collage.svg)
 
 With my awesome team, I helped develop a method to determine pulsation parameters of white dwarfs—crucial for infering their internal structure—from a limited amount of observational data. I automated the production of a suite of synthetic time series white dwarf observations, which we used to validate our method.
 
