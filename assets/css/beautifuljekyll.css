@@ -72,6 +72,17 @@ a:focus p {
   text-decoration: none;
   color: {{ site.text-col | default: "#404040" }};
 }
+@media (max-width: 1199px) {
+  a h3 {
+    text-decoration: underline;
+    color: {{ site.link-col | default: "#404040" }};
+  }
+  a:hover h3,
+  a:focus h3 {
+    text-decoration: underline;
+    color: {{ site.over-col | default: "#404040" }};
+  }
+}
 /*                    */
 blockquote {
   color: #808080;
