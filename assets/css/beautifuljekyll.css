@@ -80,7 +80,7 @@ a:focus p {
   a:hover h3,
   a:focus h3 {
     text-decoration: underline;
-    color: {{ site.over-col | default: "#404040" }};
+    color: {{ site.hover-col | default: "#404040" }};
   }
 }
 /*                    */

@@ -8,7 +8,7 @@ tags: [Python, C]
 
 *2014 - 2015*
 
-White dwarfs represent a hidden majority of stars in our universe, and these small, hot remnants of stellar cores have a lot to tell us about the environments they reside in. I worked with a team studying a specific class of white dwarf stars that pulsate regularly in brightness. By studying their pulsations, we can recover extremely precise ages for these stellar remnants, which can be used to date astrophysical events like supernovae, stellar interactions, and even the birth of the Universe itself.
+White dwarfs represent a hidden majority of stars in our universe, and these small, hot remnants of stellar cores have a lot to tell us about the environments they reside in. I worked with a team studying a specific class of white dwarf stars that pulsate regularly in brightness. By studying their pulsations, we can recover extremely precise ages for these stellar remnants, which can be used to date astrophysical events like supernovae, stellar interactions, and even the birth of the Universe itself*!*
 
 ![Pulsating White Dwarf Diagrams](/assets/img/WD-collage.svg)
 
